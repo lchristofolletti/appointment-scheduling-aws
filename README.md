@@ -1,2 +1,2 @@
 # appointment-scheduling-aws
-Cloud-native Appointment Scheduling System using AWS (S3, Lambda, API Gateway, DynamoDB) with serverless architecture and hybrid multi-cloud design support.
+A cloud-native Appointment Scheduling System developed using AWS services (Amazon S3, AWS Lambda, API Gateway, and DynamoDB), implementing a scalable serverless architecture with support for future hybrid multi-cloud integration.
